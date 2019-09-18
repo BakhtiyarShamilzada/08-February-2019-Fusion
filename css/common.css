@@ -1,0 +1,295 @@
+button
+{
+	margin: 20px 10px 0px 0px;
+	text-transform: uppercase;
+	font-size: 14px;
+	padding: 10px 30px;
+	font-weight: 400;
+	text-align: center;
+	border: 1px solid;
+	line-height: 1.5em;
+	border-radius: 30px;
+}
+.button-red
+{	
+	color: #fff;
+	background: #f63854;
+}
+.button-red:hover
+{
+	color: #f63854;
+	background: #fff;
+	border-color: #f63854;
+}
+.button-white:hover
+{
+	color: #fff;
+	background: #f63854;
+}
+.button-white
+{
+	color: #f63854;
+	background: #fff;
+	border-color: #f63854;
+}
+.relative
+{
+	position: relative;
+}
+.absolute
+{
+	position: absolute;
+}
+.section
+{
+	margin-bottom: 50px;
+}
+a
+{
+	color: #585b60;
+	text-decoration: none;
+}
+.fixed
+{
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+	box-shadow: 0 3px 3px 3px #f4f4f4;
+}
+.border
+{
+	border: 1px solid black;
+}
+.right
+{
+	text-align: right;
+}
+[class^="lorem"]
+{
+	text-align: left;
+	font-weight: 400;
+	font-family: open sans, sans-serif;
+	font-size: 14px;
+	line-height: 25px;
+	color: #abacae;
+}
+.lorem-services
+{
+	text-align: center;
+}
+.services
+{
+	border: 1px solid #f4f4f4;
+	text-align: center;
+	box-sizing: border-box;
+	padding: 20px;
+	border-radius: 4px;
+}
+.row-features
+{
+	margin: 30px 0px;
+	padding: 15px;
+	border: 1px solid #f4f4f4;
+	box-sizing: border-box;
+	border-radius: 4px;
+}
+.row-team
+{
+	background: #fff;
+	border: 1px solid #f4f4f4;
+	box-sizing: border-box;
+	border-radius: 4px;
+	box-shadow: 0 3px 3px 3px #f4f4f4;
+}
+.padding0
+{
+	padding: 0px;
+}
+.padding7
+{
+	padding: 7px;
+}
+.team
+{
+	height: 200px;
+}
+[class^="h3"]
+{
+	margin: 10px 0px;
+	font-size: 16px;
+	color: #585b60;
+	font-weight: 500;
+	text-transform: uppercase;
+	font-family: arvo, serif;
+	line-height: 1.2em;
+	text-align: center;
+}
+[class^="h4"]
+{
+	cursor: pointer;
+	margin: 10px 0px;
+	font-size: 18px;
+	color: #585b60;
+	font-weight: 500;
+	text-transform: uppercase;
+	font-family: arvo, serif;
+	line-height: 22px;
+	text-align: center;
+}
+.h4-features
+{
+	text-align: right;
+}
+.h4-features-left
+{
+	text-align: left;
+}
+.services:hover 
+{
+	transition: 0.3s;
+	box-shadow: 0 12px 12px 12px #f4f4f4;
+}
+.services:hover [class^="fa"]
+{
+	color: #fff;
+	background: #f63854;
+}
+.row-features:hover
+{
+	transition: 0.3s;
+	box-shadow: 0 12px 12px 12px #f4f4f4;
+}
+.row-team:hover
+{
+	transition: 0.3s;
+	box-shadow: 0 12px 12px 12px rgba(198,198,198,.3);
+}
+.services-content
+{
+	margin-top: 30px;
+}
+.services-content h3
+{
+	font-weight: 600;
+}
+.features-text
+{
+	float: left;
+	margin-right:6px;
+}
+.lorem-features
+{
+	text-align: right;
+}
+.lorem-team
+{
+	margin: 10px 0px;
+}
+.features-text-left
+{
+	float: left;
+	margin-right:6px;
+}
+.lorem-features-left
+{
+	text-align: left;
+}
+[class^="head-title"]
+{
+	color: #222;
+	font-size: 42px;
+	font-weight: 700;
+	line-height: 60px;
+	margin-bottom: 10px;
+	font-family: arvo, serif;
+}
+.head-title-services
+{
+	line-height: 1.2em;
+}
+.head-title-services
+{
+	font-size: 30px;
+}
+
+[class^="fa"]
+{
+	width: 70px;
+	height: 70px;
+	color: #f63854;
+	font-size: 30px;
+}
+
+.icon-services
+{	
+	border: 1px solid #f1f1f1;
+	border-radius: 50%;
+}
+.fa-box
+{	
+	line-height: 80px; 
+	width: 80px;
+	height: 80px;
+}
+.icon-pricing
+{	
+	border: 1px solid #f1f1f1;
+	border-radius: 50%;
+	background: #ebedef;
+}
+.row-pricing
+{
+	text-align: center;
+	margin: 30px 0px;
+	padding: 15px;
+	border: 1px solid #f4f4f4;
+	box-sizing: border-box;
+	border-radius: 4px;
+	box-shadow: 0 3px 3px 3px #f4f4f4;
+}
+.box-shadow
+{
+	box-shadow: 0 12px 12px 12px rgba(27,38,49,.1);
+}
+.row-pricing:hover
+{
+	transition: 0.3s;
+	box-shadow: 0 12px 12px 12px rgba(27,38,49,.1);
+}
+.h2
+{
+	margin-top: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 30px;
+	font-family: arvo,serif;
+	color: #222;
+}
+.h3-testimonal
+{
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 24px;
+	font-family: arvo,serif;
+	color: #222;
+}
+.a-testimonal
+{
+	color: #222;
+}
+.fa-circle
+{
+	width: 17px;
+	height: 17px;
+	font-size: 12px;
+	text-align: center;
+	color: #fff;
+}
+.circle span
+{
+	margin-left: -100px;
+	text-align: center;
+}

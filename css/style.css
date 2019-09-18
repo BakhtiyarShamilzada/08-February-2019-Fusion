@@ -1,0 +1,277 @@
+.top
+{
+	background: #fff;
+}
+nav ul li
+{
+	float: left;
+	margin-right: 20px;
+}
+nav ul li a
+{
+	color: #abacae;
+}
+nav ul li a:hover
+{
+	color: #f63854;
+	text-decoration: underline;
+	transition: 0.3s;
+}
+.logo img
+{
+	width: 140px;
+	height: 28px;
+}
+.head
+{
+	top: 100px;
+}
+.manage
+{
+	top: 150px;
+}
+.img-1
+{
+	top: 50px;
+}
+.container-fluid-home
+{
+	width: 1349px;
+	height: 650px;
+	background-image: url(../images/hero-area.svg);
+	background-size: cover;
+}
+.container-fluid-statistic
+{
+	background-color: #f9f9f9;
+}
+.container-fluid-team
+{
+	background-color: #f9f9f9;
+}
+.container-fluid-testimonal
+{
+	background-color: #f63854;
+}
+.container-fluid-contact
+{
+	background-color: #f9f9f9;
+}
+.col-5 img
+{
+	width: 200px;
+	height: 200px;
+}
+.intro-mobile img
+{
+	width: 445px;
+	height: 326.75px;
+}
+.intro-mobile2 img
+{
+	width: 350px;
+	height: 390.83px;
+}
+.img-1 img
+{
+	width: 540px;
+	height: 478.41px;
+}
+.our-services
+{
+	font-size: 30px;
+	color: #222;
+	font-weight: 700;
+	font-family: arvo, serif;
+	line-height: 1.2em;
+	text-align: center;
+}
+.fa-cog
+{
+	line-height: 70px;
+}
+.fa-user-friends
+{
+	line-height: 70px;
+}
+.fa-layer-group
+{
+	line-height: 70px;
+}
+.fa-mobile
+{
+	line-height: 70px;
+}
+.fa-rocket
+{
+	line-height: 70px;
+}
+.social-icons li
+{
+	text-align: left;
+	float: left;
+}
+.fa-facebook-f
+{
+	width: 40px;
+	height: 40px;
+	text-align: left;
+	font-size: 18px;
+	color: #3b5998;
+}
+.fa-twitter
+{
+	width: 40px;
+	height: 40px;
+	text-align: left;
+	font-size: 18px;
+	color: #00aced;
+}
+.fa-instagram
+{
+	width: 40px;
+	height: 40px;
+	text-align: left;
+	font-size: 18px;
+	color: #fb3958;
+}
+.fa-linkedin-in
+{
+	width: 40px;
+	height: 40px;
+	text-align: left;
+	font-size: 18px;
+	color: #4875B4;
+}
+.team-text a
+{
+	color: #333;
+}
+.h3-team
+{
+	text-align: left;
+}
+.lorem-services li
+{
+	margin: 10px;
+}
+.h3-pricing
+{
+	font-size: 18px;
+	color: #333;
+	font-weight: 700;
+	margin-top: 20px;
+}
+.icon-box
+{
+	margin: 20px;
+}
+.price-value
+{
+	font-size: 27px;
+	color: #f63854;
+	font-weight: 700;
+	line-height: 25px;
+}
+.price-value span
+{
+	font-size: 15px;
+	color: #abacae;
+	font-weight: 400;
+}
+.star
+{
+	margin: 20px;
+}
+span .fa-star
+{
+	width: 14px;
+	height: 14px;
+	font-size: 14px;
+}
+.row-testimonal
+{
+	margin: 40px 0px;
+	padding: 20px;
+	text-align: center;
+	background: #fff;
+}
+.testimonal img
+{
+	margin-top: 30px;
+	width: 89px;
+	height: 89px;
+	border-radius: 50%;
+}
+.h4
+{
+	text-align: left;
+	font-size: 38px;
+	color: #222;
+	font-weight: 700;
+	line-height: 1.2em;
+	font-family: arvo,serif;
+}
+input
+{	
+	margin: 10px;
+	border-radius: 4px;
+	font-size: 14px;
+	padding: 10px;
+	border:1px solid #f1f1f1;
+}
+textarea
+{
+	margin: 10px;
+	border-radius: 4px;
+	font-size: 14px;
+	padding: 10px;
+	border:1px solid #f1f1f1;
+}
+.logofooter
+{
+	margin-bottom: 10px;
+	width: 200px;
+	height: 40px;
+}
+.footer .lorem
+{
+	text-align: center;
+}
+.footer-icons
+{
+	margin-top: 20px;
+}
+.footer-li .h3
+{
+	font-weight: 600;
+	font-style: normal;
+	color: #333;
+	text-align: left;
+	margin-left: 20px;
+}
+.footer-li li
+{
+	text-align: left;
+	margin: 20px;
+}
+.footer-li li a
+{
+	color: #abacae;
+}
+.footer-li li a:hover
+{
+	color: #f63854;
+	transition: 0.3s;
+}
+.footer-li i
+{
+	font-size: 20px;
+	width: 30px;
+	height: 30px;
+}
+.lorem span
+{
+	cursor: pointer;
+	color: #f63854;
+}
